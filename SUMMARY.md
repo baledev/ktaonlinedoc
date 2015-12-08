@@ -1,4 +1,4 @@
 # Summary
 
-* About Author
+* [About Author](about_author.md)
 
